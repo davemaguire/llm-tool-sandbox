@@ -9,12 +9,12 @@ or Streamlit apps. However, it is not intended to follow robust deployment
 patterns.
 
 ## Installation
-Clone the repository to your local machine.
-Install Poetry using the instructions provided in the official 
-documentation.
-Navigate to the root directory of the repository.
-Run poetry install to create a virtual environment and install the 
-necessary packages.
+1. Clone the repository to your local machine. 
+2. Install Poetry using the instructions provided in the official 
+documentation. 
+3. Navigate to the root directory of the repository. 
+5. Run poetry install to create a virtual environment and install the 
+necessary packages. 
 ## Usage
 Activate the virtual environment by running poetry shell and then start 
 Jupyter notebooks by running jupyter notebook or Streamlit by running 
